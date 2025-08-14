@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/ui-libraries/main/drawing/void/source.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/k2-emu/k2/refs/heads/main/wyvern/source.lua"))()
 
 local watermark = library:Watermark("watermark | 60 fps | v4.20 | dev")
 -- watermark:Set("Watermark Set")
